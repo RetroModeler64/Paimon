@@ -1,6 +1,6 @@
 Privacy Policy for Paimon Bot by Araela
 
-Last Update: 19:47 - 14/08/2023
+Last Update: 23:04 - 19/08/2023
 
 This Privacy Policy describes how Paimon ("we", "us", or "our") collects, uses, and shares personal information when you use our Discord bot and related services (the "Service").
 
@@ -25,6 +25,18 @@ We take reasonable measures to protect the information we collect from unauthori
 
 Your Choices:
 You have the right to access, correct, or delete your personal information. To do so, you have some commands at your disposal on Paimon, you can also contact us to do so with your server data. If you need further assistance, you can contact us at araela@outlook.es for help with these requests.
+
+Data Deletion upon Leaving a Server and Cancellation:
+
+When you leave a server where our Discord bot is active, we want to provide clarity on how we handle your data within the bot environment.
+
+Upon leaving a server, we retain your user data for a period of 7 to 14 days. This duration enables us to ensure the bot's smooth operation and address any potential issues. Following this period, your user data is permanently removed from our systems.
+
+It's important to note that this data deletion process applies exclusively to the data collected by our bot during your interactions.
+
+We also have an automatic cancellation. If you rejoin a server where the bot is active or add it to your own server, the data deletion stops. This means your user data stays in the bot.
+
+If you have any inquiries regarding our data management practices, please don't hesitate to contact us at our contact email at the end of this Privacy Policy.
 
 Data Deletion and Patreon Refunds:
 Please note that in the event your data is deleted, we do not offer returns or refunds for Patreon membership (Like Paimon Plus memberships) fees. By becoming a Patreon supporter, you acknowledge and accept this policy.
